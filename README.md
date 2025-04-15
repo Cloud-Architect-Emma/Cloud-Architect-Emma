@@ -18,5 +18,5 @@
 ---
 
 📫 **Get in Touch**  
-📧 [Your Email]  
-🔗 [LinkedIn Profile]
+📧 [emmanuela_prince@yahoo.com]  
+🔗 [www.linkedin.com/in/cloud-architect-emma]
