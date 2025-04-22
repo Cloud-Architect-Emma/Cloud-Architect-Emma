@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Emmanuela – Junior AWS Solution Architect  
+![Profile views](https://komarev.com/ghpvc/?username=Cloud-Architect-Emma&color=blue)
 
 🎯 Actively seeking AWS Solution Architect roles across the UK  
 📍 Based in London | 💼 Open to full-time and hybrid opportunities  
