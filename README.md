@@ -1,4 +1,4 @@
-# Emmanuela – Junior AWS Solution Architect  
+# 👋 Hi there, I'm Emmanuela – Junior AWS Solution Architect  
 
 Actively seeking AWS Solution Architect roles across the UK  
 Based in London | Open to full-time and hybrid opportunities  
@@ -50,9 +50,9 @@ Configured real-time monitoring, custom alarms, and automated email notification
 
 ## Contact  
 
-**Email**: [emmanuela_prince@yahoo.com](mailto:emmanuela_prince@yahoo.com)  
-**LinkedIn**: [linkedin.com/in/cloud-architect-emma](https://www.linkedin.com/in/cloud-architect-emma)  
+📧 Email: [emmanuela_prince@yahoo.com](mailto:emmanuela_prince@yahoo.com)  
+🔗 LinkedIn: [cloud-architect-emma](https://www.linkedin.com/in/cloud-architect-emma)    
 
 ---
 
-Feel free to explore my repositories or connect with me on LinkedIn.
+⭐️Feel free to explore my repositories or connect with me on LinkedIn.
