@@ -1,50 +1,57 @@
 # 👋 Hi there, I'm Emmanuela – Junior AWS Solution Architect  
 
-Actively seeking AWS Solution Architect roles across the UK  
+Actively seeking AWS Solution Architect or Data Architect roles across the UK  
 Based in London | Open to full-time and hybrid opportunities  
 
 ---
 
 ## About Me  
 
-I am a Junior AWS Solution Architect focused on designing, deploying, and managing scalable and secure cloud infrastructures.  
-Currently building real-world AWS projects to showcase my ability to apply best practices in cloud architecture and automation.  
-I have a strong interest in infrastructure as code, serverless computing, and cost-optimized solutions tailored to business needs.
+I am a Junior AWS & Data Architect passionate about designing secure, scalable, and data-driven cloud solutions.  
+I enjoy working with data to help organizations make informed decisions, streamline operations, and build resilient architectures.  
+Currently building real-world AWS projects to demonstrate my ability to implement cloud-native and data-centric solutions using Infrastructure as Code and serverless technologies.  
+I’m especially interested in how architecture and data engineering intersect to deliver meaningful business outcomes.
 
 ---
 
 ## Technical Skills  
 
-**Cloud Services**:  
-AWS (EC2, S3, Lambda, RDS, DynamoDB, VPC, CloudFront, Route 53, CloudWatch)  
+**Cloud Platforms**:  
+AWS (EC2, S3, Lambda, RDS, DynamoDB, VPC, CloudFront, Route 53, CloudWatch, SNS, Athena, Glue)  
 
-**Infrastructure as Code**:  
+**Infrastructure as Code (IaC)**:  
 Terraform, AWS CloudFormation  
 
-**Languages**:  
+**Data & Analytics**:  
+AWS RDS, DynamoDB, Athena, AWS Glue, SQL, Python (Pandas), ETL Pipelines, Data Modeling  
+
+**Programming & Scripting**:  
 Python, Bash, YAML, JSON  
 
-**Tools & Platforms**:  
-Git, GitHub, AWS CLI, Postman  
+**Tools & DevOps**:  
+Git, GitHub, AWS CLI, Postman, Jupyter Notebooks  
 
 ---
 
 ## Projects  
 
 **VPC Deployment with Terraform**  
-Designed and deployed a custom multi-tier network architecture with public and private subnets.  
+Deployed a custom multi-tier VPC architecture across public and private subnets with internet and NAT gateways for secure networking.  
 
 **Serverless TODO App (API Gateway + Lambda + DynamoDB)**  
-Developed a full CRUD application using AWS serverless stack with Postman testing.  
+Built a serverless CRUD API with AWS Lambda and DynamoDB, showcasing event-driven architecture and Postman-tested endpoints.  
+
+**Data Pipeline using AWS Glue + S3 + Athena** *(Coming Soon)*  
+Building an end-to-end serverless ETL pipeline to process and query large datasets stored in S3 using AWS Glue and Athena.  
 
 **S3 Static Website Hosting with CloudFront & Route 53**  
-Implemented a secure, low-cost static website with custom domain and SSL configuration.  
+Hosted a static site with global delivery via CloudFront, SSL encryption, and DNS management using Route 53.  
 
-**Infrastructure Automation using CloudFormation**  
-Provisioned EC2, RDS, and security groups using automated, version-controlled IaC templates.  
+**Infrastructure Automation with CloudFormation**  
+Provisioned a full environment (EC2 + RDS + Security Groups) using version-controlled CloudFormation templates.  
 
-**Monitoring and Alerts with CloudWatch and SNS**  
-Configured real-time monitoring, custom alarms, and automated email notifications.  
+**Monitoring & Alerts with CloudWatch and SNS**  
+Configured automated resource monitoring with CloudWatch alarms and real-time alerts using SNS email notifications.  
 
 ---
 
@@ -52,7 +59,8 @@ Configured real-time monitoring, custom alarms, and automated email notification
 
 📧 Email: [emmanuela_prince@yahoo.com](mailto:emmanuela_prince@yahoo.com)  
 🔗 LinkedIn: [cloud-architect-emma](https://www.linkedin.com/in/cloud-architect-emma)    
+  
 
 ---
 
-⭐️Feel free to explore my repositories or connect with me on LinkedIn.
+⭐️Feel free to explore my repositories, connect on LinkedIn, or reach out for collaborations or opportunities in AWS or data architecture.
