@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Emmanuela – Junior AWS Solution Architect  
+# 👋 Hi there, I'm Emmanuela – AWS Solution Architect  
 
 Actively seeking AWS Solution Architect or Data Architect roles across the UK  
 Based in London | Open to full-time and hybrid opportunities  
@@ -7,7 +7,7 @@ Based in London | Open to full-time and hybrid opportunities
 
 ## About Me  
 
-I am a Junior AWS & Data Architect passionate about designing secure, scalable, and data-driven cloud solutions.  
+I am an AWS & Data Architect passionate about designing secure, scalable, and data-driven cloud solutions.  
 I enjoy working with data to help organizations make informed decisions, streamline operations, and build resilient architectures.  
 Currently building real-world AWS projects to demonstrate my ability to implement cloud-native and data-centric solutions using Infrastructure as Code and serverless technologies.  
 I’m especially interested in how architecture and data engineering intersect to deliver meaningful business outcomes.
@@ -41,7 +41,7 @@ Deployed a custom multi-tier VPC architecture across public and private subnets 
 **Serverless TODO App (API Gateway + Lambda + DynamoDB)**  
 Built a serverless CRUD API with AWS Lambda and DynamoDB, showcasing event-driven architecture and Postman-tested endpoints.  
 
-**Data Pipeline using AWS Glue + S3 + Athena** *(Coming Soon)*  
+**Data Pipeline using AWS Glue + S3 + Athena**  
 Building an end-to-end serverless ETL pipeline to process and query large datasets stored in S3 using AWS Glue and Athena.  
 
 **S3 Static Website Hosting with CloudFront & Route 53**  
