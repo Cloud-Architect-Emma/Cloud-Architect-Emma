@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Emmanuela – AWS Data & Solution Architect  
+# 👋 Hello, I'm Emmanuela – AWS Data & Solution Architect  
 
 Actively seeking AWS Solution Architect or Data Architect roles across the UK  
 Based in London | Open to full-time and hybrid opportunities  
